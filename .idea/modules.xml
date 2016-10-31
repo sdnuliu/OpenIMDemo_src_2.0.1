@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneSDK/OneSDK.iml" filepath="$PROJECT_DIR$/OneSDK/OneSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenIMDemo_src_2.0.1.iml" filepath="$PROJECT_DIR$/OpenIMDemo_src_2.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YunWangVideoSDK/YunWangVideoSDK.iml" filepath="$PROJECT_DIR$/YunWangVideoSDK/YunWangVideoSDK.iml" />
+    </modules>
+  </component>
+</project>

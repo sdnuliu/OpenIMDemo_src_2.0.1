@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/menu/menu_system_message.xml",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/res/menu/menu_system_message.xml"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/menu/menu_invite_tribe_member.xml",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/res/menu/menu_invite_tribe_member.xml"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/menu/menu_at_msg_list.xml",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/res/menu/menu_at_msg_list.xml"
+    }
+]

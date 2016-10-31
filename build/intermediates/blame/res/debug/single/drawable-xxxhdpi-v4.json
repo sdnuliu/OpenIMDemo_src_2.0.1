@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_title_bar_more.9.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/OpenIMDemo_src_2.0.1/OneSDK/unspecified/res/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_title_bar_more.9.png"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_activity_sendfeedback_newimagewithdelete_delete_drawable.9.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/OpenIMDemo_src_2.0.1/OneSDK/unspecified/res/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_activity_sendfeedback_newimagewithdelete_delete_drawable.9.png"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_title_bar_back.9.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/OpenIMDemo_src_2.0.1/OneSDK/unspecified/res/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_title_bar_back.9.png"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/__leak_canary_notification.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-xxxhdpi/__leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_title_bar_close.9.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/OpenIMDemo_src_2.0.1/OneSDK/unspecified/res/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_title_bar_close.9.png"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_activity_sendfeedback_addpicture.9.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/OpenIMDemo_src_2.0.1/OneSDK/unspecified/res/drawable-xxxhdpi-v4/com_taobao_tae_sdk_web_view_activity_sendfeedback_addpicture.9.png"
+    },
+    {
+        "merged": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/__leak_canary_icon.png",
+        "source": "/Users/liuteng/Documents/zwzz_workspace/OpenIMDemo_src_2.0.1/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-xxxhdpi/__leak_canary_icon.png"
+    }
+]
